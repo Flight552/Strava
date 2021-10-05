@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name" translatable="false">FitnessApp</string>
+    <string name="skip">Skip</string>
+    <string name="scent" translatable="false">SCENT</string>
+    <string name="text_label">Already a member</string>
+    <string name="continue_wi">Continue with Strava</string>
+    <string name="profile">Profile</string>
+    <string name="send_to" translatable="false">send_to</string>
+    <string name="user_avatar" translatable="false">user_avatar</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="share">Share</string>
+    <string name="gender">Gender</string>
+    <string name="country">Country</string>
+    <string name="weight">Weight</string>
+    <string name="logout">logout</string>
+    <string name="go_to_different_activity" translatable="false">GoToDifferentActivity</string>
+    <string name="authorization_cancelled">Can not use app without authorization</string>
+    <string name="authorization_denied">Authorization denied</string>
+    <string name="is_connected">Connection is active</string>
+    <string name="is_not_connected">No Internet Connection</string>
+    <string name="type">TYPE</string>
+    <string name="enter_time">Activity started at</string>
+    <string name="enter_date">Enter date</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_distance">Enter distance in meters</string>
+    <string name="enter_description">Enter description</string>
+    <string name="create">Create</string>
+    <string name="create_your_activity">Create your activity</string>
+    <string name="no_connection">No connection</string>
+    <string name="enter_duration">Activity duration in minutes</string>
+    <string name="field_warning">The field should not be empty!</string>
+    <string name="workout_notification">Workout notification!</string>
+    <string name="workout_text">Time for workout!</string>
+    <string name="logout_dialog_title">Logout</string>
+    <string name="logout_dialog_message">Are you sure to logout? All local data will be erased!</string>
+    <string name="logout_dialog_no">No</string>
+    <string name="logout_dialog_yes">Yes</string>
+    <string name="no_activities">No activities yet</string>
+    <string name="onboarding_title_1">Welcome to Ascent</string>
+    <string name="onboarding_title_2">Friends</string>
+    <string name="onboarding_title_3">Activities</string>
+    <string name="onboarding_desc_1">Here you can monitor your weight and activities</string>
+    <string name="onboarding_desc_2">Fill in the activity and weight fields, and then share the information with your friends</string>
+    <string name="onboarding_desc_3">Convenient weight and activity tracking system-fill out your profile and start living brightly</string>
+    <string name="send_sms">Hello! I am on STRAVA</string>
+    <string name="eng" translatable="false">Eng</string>
+    <string name="rus" translatable="false">Рус</string>
+    <string name="weight_submission">Weight submitted</string>
+    <string name="choose_activity">Choose Activity</string>
+    <string name="sp_run">Run</string>
+    <string name="sp_walk">Walk</string>
+    <string name="sp_ride">Ride</string>
+    <string name="sp_alpineSki">AlpineSki</string>
+    <string name="sp_backcountrySki">BackcountrySki</string>
+    <string name="sp_canoeing">Canoeing</string>
+    <string name="sp_crossfit">Crossfit</string>
+    <string name="sp_eBikeRide">EBikeRide</string>
+    <string name="sp_elliptical">Elliptical</string>
+    <string name="sp_golf">Golf</string>
+    <string name="sp_handcycle">Handcycle</string>
+    <string name="sp_hike">Hike</string>
+    <string name="sp_iceSkate">IceSkate</string>
+    <string name="sp_inlineSkate">InlineSkate</string>
+    <string name="sp_kayaking">Kayaking</string>
+    <string name="sp_kitesurf">Kitesurf</string>
+    <string name="sp_nordicSki">NordicSki</string>
+    <string name="sp_rockClimbing">RockClimbing</string>
+    <string name="sp_rollerSki">RollerSki</string>
+    <string name="sp_rowing">Rowing</string>
+    <string name="sp_sail">Sail</string>
+    <string name="sp_skateboard">Skateboard</string>
+    <string name="sp_snowboard">Snowboard</string>
+    <string name="sp_snowshoe">Snowshoe</string>
+    <string name="sp_soccer">Soccer</string>
+    <string name="sp_stairStepper">StairStepper</string>
+    <string name="sp_standUpPaddling">StandUpPaddling</string>
+    <string name="sp_surfing">Surfing</string>
+    <string name="sp_swim">Swim</string>
+    <string name="sp_velomobile">Velomobile</string>
+    <string name="sp_virtualRide">VirtualRide</string>
+    <string name="sp_virtualRun">VirtualRun</string>
+    <string name="sp_weightTraining">WeightTraining</string>
+    <string name="sp_wheelchair">Wheelchair</string>
+    <string name="sp_windsurf">Windsurf</string>
+    <string name="sp_workout">Workout</string>
+    <string name="sp_yoga">Yoga</string>
+    <string name="query_limit_message">Exceeded query limit</string>
+    <string name="add_weight_message">Weight is added</string>
+    <string name="add_weight_message_error_db">Database Error!</string>
+    <string name="add_weight_message_error_internet">Internet Error! Is added to database!</string>
+    <string name="add_weight_message_error">Error! Weight is not added!</string>
+</resources>

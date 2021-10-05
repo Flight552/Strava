@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="TYPE">
+        <item>@string/choose_activity</item>
+        <item>@string/sp_alpineSki</item>
+        <item>@string/sp_backcountrySki</item>
+        <item>@string/sp_canoeing</item>
+        <item>@string/sp_crossfit</item>
+        <item>@string/sp_eBikeRide</item>
+        <item>@string/sp_elliptical</item>
+        <item>@string/sp_golf</item>
+        <item>@string/sp_handcycle</item>
+        <item>@string/sp_hike</item>
+        <item>@string/sp_iceSkate</item>
+        <item>@string/sp_inlineSkate</item>
+        <item>@string/sp_kayaking</item>
+        <item>@string/sp_kitesurf</item>
+        <item>@string/sp_nordicSki</item>
+        <item>@string/sp_ride</item>
+        <item>@string/sp_rockClimbing</item>
+        <item>@string/sp_rollerSki</item>
+        <item>@string/sp_rowing</item>
+        <item>@string/sp_run</item>
+        <item>@string/sp_sail</item>
+        <item>@string/sp_skateboard</item>
+        <item>@string/sp_snowboard</item>
+        <item>@string/sp_snowshoe</item>
+        <item>@string/sp_soccer</item>
+        <item>@string/sp_stairStepper</item>
+        <item>@string/sp_standUpPaddling</item>
+        <item>@string/sp_surfing</item>
+        <item>@string/sp_swim</item>
+        <item>@string/sp_velomobile</item>
+        <item>@string/sp_virtualRide</item>
+        <item>@string/sp_virtualRun</item>
+        <item>@string/sp_walk</item>
+        <item>@string/sp_weightTraining</item>
+        <item>@string/sp_wheelchair</item>
+        <item>@string/sp_windsurf</item>
+        <item>@string/sp_workout</item>
+        <item>@string/sp_yoga</item>
+    </string-array>
+</resources>

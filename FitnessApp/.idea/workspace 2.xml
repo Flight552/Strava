@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd2ed580-7359-4d51-9ab4-7eb0d568655a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/render.experimental.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/api/AuthApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/api/AuthInfo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/data/RemoteAthlete.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/data/RemoteBike.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/data/RemoteShoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/fragments/AuthFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/fragments/ProfileFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/repository/AuthRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/repository/Repository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/utils/AutoClearedValue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/utils/SingleLiveEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/utils/ViewBindingFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/viewModel/AuthViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/group2_shape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/strava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ellipse_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_button_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_group_2_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_sheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_vector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/line_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/line_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/spinner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/type_outlin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_auth.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/weight_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/user_weight.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/ybrmac/.android/avd/Pixel_4_API_26.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vJNB9r0PF8qrUzH6LC2DGuspgL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/ybrmac/Library/Android/sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/ybrflight552/fitnessapp/utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="FitnessApp.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd2ed580-7359-4d51-9ab4-7eb0d568655a" name="Default Changelist" comment="" />
+      <created>1626276094722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626276094722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1627028964542">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="203" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.738@0.23.1280.738" timestamp="1627028964541" />
+    <state x="378" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626862734318">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="378" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.737@0.23.1280.737" timestamp="1626862734318" />
+    <state x="378" y="145" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.738@0.23.1280.738" timestamp="1626290959684" />
+    <state x="100" y="123" width="1080" height="537" key="AVDManager" timestamp="1627237993573">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="100" y="123" width="1080" height="537" key="AVDManager/0.23.1280.737@0.23.1280.737" timestamp="1627237993573" />
+    <state x="100" y="123" width="1080" height="538" key="AVDManager/0.23.1280.738@0.23.1280.738" timestamp="1626432105201" />
+    <state x="228" y="153" key="AndroidCreateResourceFileDialog" timestamp="1626891658990">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="228" y="153" key="AndroidCreateResourceFileDialog/0.23.1280.737@0.23.1280.737" timestamp="1626891658990" />
+    <state x="228" y="153" key="AndroidCreateResourceFileDialog/0.23.1280.738@0.23.1280.738" timestamp="1626891597500" />
+    <state x="467" y="176" key="AndroidCreateXmlResourceDialog" timestamp="1626890758400">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="467" y="176" key="AndroidCreateXmlResourceDialog/0.23.1280.737@0.23.1280.737" timestamp="1626890758400" />
+    <state width="1238" height="122" key="GridCell.Tab.0.bottom" timestamp="1627050478739">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1238" height="405" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1626960107769" />
+    <state width="1238" height="122" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1627050478739" />
+    <state width="1238" height="459" key="GridCell.Tab.0.bottom/0.23.1280.739@0.23.1280.739" timestamp="1627038233102" />
+    <state width="1238" height="286" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1627038807147" />
+    <state width="1238" height="122" key="GridCell.Tab.0.center" timestamp="1627050478737">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1238" height="405" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1626960107767" />
+    <state width="1238" height="122" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1627050478737" />
+    <state width="1238" height="459" key="GridCell.Tab.0.center/0.23.1280.739@0.23.1280.739" timestamp="1627038233101" />
+    <state width="1238" height="286" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1627038807146" />
+    <state width="1238" height="122" key="GridCell.Tab.0.left" timestamp="1627050478737">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1238" height="405" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1626960107766" />
+    <state width="1238" height="122" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1627050478737" />
+    <state width="1238" height="459" key="GridCell.Tab.0.left/0.23.1280.739@0.23.1280.739" timestamp="1627038233100" />
+    <state width="1238" height="286" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1627038807145" />
+    <state width="1238" height="122" key="GridCell.Tab.0.right" timestamp="1627050478738">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state width="1238" height="405" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1626960107767" />
+    <state width="1238" height="122" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1627050478738" />
+    <state width="1238" height="459" key="GridCell.Tab.0.right/0.23.1280.739@0.23.1280.739" timestamp="1627038233102" />
+    <state width="1238" height="286" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1627038807146" />
+    <state x="228" y="141" key="IDE.errors.dialog" timestamp="1626331926847">
+      <screen x="0" y="23" width="1280" height="738" />
+    </state>
+    <state x="228" y="141" key="IDE.errors.dialog/0.23.1280.738@0.23.1280.738" timestamp="1626331926847" />
+    <state x="427" y="176" key="chooseDestDirectoryDialog" timestamp="1626867787797">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="427" y="176" key="chooseDestDirectoryDialog/0.23.1280.737@0.23.1280.737" timestamp="1626867787797" />
+    <state x="427" y="176" key="chooseDestDirectoryDialog/0.23.1280.738@0.23.1280.738" timestamp="1626332100914" />
+  </component>
+</project>
